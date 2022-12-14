@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mungo. I live in London and grew up in Singapore.
 - 👀 I’m interested in finance, economics, cryptocurrency, AI, programming, physics, startups, and augmented/virtual reality.
-- 🌱 My main programming language is Python, but I have experience with Java, C#, C++, and more.
+- 🌱 My main programming languages are C++ & Python, but I have experience with Java, C#, and more.
 - 📫 How to reach me { 'email' : 'mungoblyth@outlook.com' }
 
 <!---
